@@ -1,0 +1,14 @@
+{
+  "name": "izzybot",
+  "version": "0.5.0",
+  "description": "Twitch chat bot for RetroSpecter's streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No Test Specified, fix the package.json!\" && exit 1"
+  },
+  "author": "Carbon",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.7.1"
+  }
+}
